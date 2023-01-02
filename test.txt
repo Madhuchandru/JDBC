@@ -1,0 +1,27 @@
+1.in oops encapsulation is which has combination of  package of data and methods ex,capsuis and 
+abstration shows the output to the  user and has inbuilt operations ex,ATM 
+
+2.IS-A relationship is also called  has paren chid relationship and it has extends key word 
+in which child extends parent but in HAS-A relation it implement key and it has some exeptions in it
+ and child cannot compleate the exeption made by his parent once child had o fullfill it or it will passed to his child and in 
+is-a relation does not want do this because it intake all the charector of his parent .
+
+3.java doesnot support multiple inheritance because is has two parent refrence and 
+it lead to daimend problem and it has inbilt of simple and multylevel s it is not posible
+
+7.equals operator will assine some values to a int or char or string ex,int=2 or char M=3,but 
+equality operator will chack wheather the assiend values is equal or not when it was not equal then it will not exciqute
+
+8.in java the constants has to be created or inbuilt  some parmanent values to char or int and it is created using equals key word .
+
+9. private key  is use to keep some values as private and it we can asses the values in side the class only  and  
+public  key is use to assine some values but we can asses the values with in the package and with in the project
+ and protected key is use to asses the data with in the package
+
+
+11.system.gc() is use when method is created and runtime.gc() is useed when method is compled and runed.
+
+15.final key is use to final a project and when final key is used we cannot alter the data or method in it.
+static used to call the JVM in the calss.
+
+ 
